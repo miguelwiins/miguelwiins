@@ -3,7 +3,7 @@
   Perfeito para jovens estudantes do Fundamental
 -->
 
-<div align="center">
+<div align="center"> (◕‿◕)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E88E5&height=150&section=header&text=Miguel&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <h1 style="color: #0D47A1;">🐣 Explorador do Mundo da Programação</h1>
@@ -11,7 +11,7 @@
     ✨ Aprendendo uma linha de código por vez! ✨
   </p>
 </div>
-
+:･ﾟ✧`
 ---
 
 <div align="center">
@@ -20,11 +20,11 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim(^._.^)
 
 <div style="background-color: #E3F2FD; border-radius: 15px; padding: 20px; border-left: 8px solid #1E88E5;">
   <ul>
-    <li>👋 <strong>Olá!</strong> Meu nome é <strong>Miguel</strong> e sou aluno da rede Estadual do Paraná.</li>
+   (｡•̀ᴗ-)✧ <li>👋 <strong>Olá!</strong> Meu nome é <strong>Miguel</strong> e sou aluno da rede Estadual do Paraná.</li>
     <li>👀 Estou interessado em aprender <strong>novas linguagens de programação</strong> e aprimorar meu conhecimento na área.</li>
     <li>📚 Atualmente estou no <strong>Ensino Fundamental</strong> e adoro transformar ideias em códigos!</li>
     <li>🎯 Meu objetivo: criar projetos legais que ajudem outros estudantes.</li>
@@ -39,7 +39,7 @@
   <p>📌 <strong>Minhas primeiras linguagens:</strong></p>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />(´｡• ᵕ •｡)
 </div>
 
 ---
@@ -51,7 +51,7 @@
   
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="Scratch" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />>_<
 </div>
 
 ---
